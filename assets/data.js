@@ -347,6 +347,18 @@ const SITE = {
         ]
       },
       {
+        name: "CIPA Resources & Resources for Students",
+        links: [
+          { title: "Teachers' Essential Guide to Digital Citizenship for CIPA and E-Rate", url: "https://www.commonsense.org/education/articles/essential-guide-to-digital-citizenship-for-cipa-and-e-rate#How%20do%20I%20get%20started%20with%20meeting%20CIPA%20requirements?", note: "What is E-rate?" },
+          { title: "Digital Citizenship for CIPA and E-Rate", url: "extension://efaidnbmnnnibpcajpcglclefindmkaj/https://www.commonsense.org/sites/default/files/pdf/2020-09/document-digital-citizenship-for-cipa-and-e-rate_2.pdf", note: "PDF from Common Sense Media with Links" }, 
+          { title: "30 Great Lesson Plans for Internet Safety", url: "https://www.commonsense.org/education/articles/30-great-lesson-plans-for-internet-safety", note: "Help kids practice smart internet habits and stay safe online" }, \
+          { title: "Learning.Com", url: "https://www.learning.com/", note: "Empower West Virginia Students with Essential Digital Literacy Skills" }, 
+          { title: "Khan Academy", url: "https://www.khanacademy.org/college-careers-more/internet-safety", note: "Internet Safety" }, 
+          { title: "Be Internet Awesome", url: "https://beinternetawesome.withgoogle.com/en_us/", note: "Empowering kids to be safe, confident explorers of the online world." }, 
+          { title: "Technological Literacy", url: "https://wv.pbslearningmedia.org/subjects/engineering--technology/technological-literacy/digital-citizenship/?rank_by=recency", note: "PBS Learning Media for Teachers" }, 
+        ]
+      },
+       {
         name: "AI & Media Literacy",
         links: [
           { title: "ISTE — AI in Education", url: "https://iste.org/ai", note: "Standards and guidance on AI use in K–12 classrooms" },
