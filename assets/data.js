@@ -333,10 +333,7 @@ const SITE = {
         name: "Digital Safety & Privacy",
         links: [
           { title: "Common Sense Education", url: "https://www.commonsense.org/education", note: "Free K–12 digital citizenship curriculum & lesson library" },
-          { title: "Cyber Safe Schools", url: "https://www.cybersafeschools-nw3c.org/", note: "Free K–12 digital citizenship curriculum & lesson library" },
-          { title: "Classroom Internet Safety Curriculum", url: "https://csnp.org/resources/parents/classroom-internet-safety-curriculum/", note: "Free K–12 digital citizenship curriculum & lesson library" },
-          { title: "FTC — OnGuardOnline / Consumer Security", url: "https://consumer.ftc.gov/online-security", note: "Federal guidance on scams, privacy, and online security" },
-          { title: "Educator Resources - iKeepSafe", url: "https://ikeepsafe.org/resources/educator/", note: "Privacy Compliance for Education Technology" }  
+          { title: "Cyber Safe Schools", url: "https://www.cybersafeschools-nw3c.org/", note: "Free K–12 digital citizenship curriculum & lesson library" } 
         ]
       },
       {
