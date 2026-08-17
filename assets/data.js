@@ -349,7 +349,8 @@ const SITE = {
       {
         name: "AI & Media Literacy",
         links: [
-          { title: "ISTE — AI in Education", url: "https://iste.org/ai", note: "Standards and guidance on AI use in K–12 classrooms" }
+          { title: "ISTE — AI in Education", url: "https://iste.org/ai", note: "Standards and guidance on AI use in K–12 classrooms" },
+          { title: "Media Smarts", url: "https://mediasmarts.ca/digital-media-literacy", note: "Digital Media Literacy Resources" } 
         ]
       },
       {
