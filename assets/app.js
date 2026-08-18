@@ -186,7 +186,20 @@
         <p>${t.tags}</p>
       </div>
     `).join("");
-
+const partner = SITE.gradePagePartner;
+    const partnerBlock = partner ? `
+      <section class="tight">
+        <div class="wrap">
+          <a class="resource-callout" href="${partner.url}" target="_blank" rel="noopener">
+            <span class="dot"></span>
+            <span class="rc-text">
+              <h5>${partner.title}</h5>
+              <p>${partner.note}</p>
+            </span>
+            <span class="rc-go">Visit site →</span>
+          </a>
+        </div>
+      </section>` : "";
     mount.innerHTML = `
       <section class="grade-hero" style="background:linear-gradient(135deg, ${band.color}, var(--ink) 75%);">
         <div class="wrap">
@@ -198,7 +211,8 @@
             <a class="btn btn-ghost" href="#lessons">See the lessons</a>
           </div>
         </div>
-      </section>
+     </section>
+      ${partnerBlock}
 
       <section id="downloads">
         <div class="wrap">
