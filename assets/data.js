@@ -355,7 +355,7 @@ const SITE = {
           { title: "Learning.Com", url: "https://www.learning.com/", note: "Empower West Virginia Students with Essential Digital Literacy Skills" }, 
           { title: "Khan Academy", url: "https://www.khanacademy.org/college-careers-more/internet-safety", note: "Internet Safety" }, 
           { title: "Be Internet Awesome", url: "https://beinternetawesome.withgoogle.com/en_us/", note: "Empowering kids to be safe, confident explorers of the online world." }, 
-          { title: "Technological Literacy", url: "https://wv.pbslearningmedia.org/subjects/engineering--technology/technological-literacy/digital-citizenship/?rank_by=recency", note: "PBS Learning Media for Teachers" }, 
+          { title: "Technological Literacy", url: "https://wv.pbslearningmedia.org/subjects/engineering--technology/technological-literacy/digital-citizenship/?rank_by=recency", note: "PBS Learning Media for Teachers" }
         ]
       },
        {
