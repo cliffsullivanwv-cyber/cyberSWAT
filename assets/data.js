@@ -20,7 +20,11 @@ const SITE = {
   brand: "CyberSWAT",
   tagline: "Grades 3–12 · Digital Citizenship & Online Safety",
   standardsLine: "Aligned to WV Senate Bill 466 (SWAT) and WV College- and Career-Readiness Standards for Technology & ELA.",
-
+gradePagePartner: {
+    title: "Learning.com",
+    url: "https://www.learning.com/",
+    note: "Preparing K–12 students with future-ready digital skills — companion courseware for this unit."
+  },
   bands: [
     { id: "elementary", label: "Grades 3–5",  name: "Foundations",   color: "var(--amber)" },
     { id: "middle",     label: "Grades 6–8",  name: "Responsibility",color: "var(--teal)"  },
