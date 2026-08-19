@@ -303,15 +303,15 @@ gradePagePartner: {
           model: "This is beyond what I can handle alone. I'm going to [counselor/law enforcement contact] now." }
       ],
       tabletops: [
-        { title: "The Old Post Resurfaces", tags: "Footprint cleanup, impact analysis" },
-        { title: "The Fake Scholarship Email", tags: "Phishing recognition, verification" },
-        { title: "The Extortion Attempt", tags: "Serious harm response, layered reporting" },
-        { title: "The Compromised Account", tags: "Account recovery, next steps" }
+        { title: "The Scholarship Surprise", tags: "<strong>Scenario:</strong><br>A student is applying for a scholarship and a spot on a team. While filling out the form, they realize old posts and tagged photos from years ago might still come up in a search." },
+        { title: "The Sophisticated Phishing Attack", tags: "<strong>Scenario:</strong><br>A student gets repeated 'approve your login' notifications they didn’t start, then a message from 'school IT' asking them to approve one and share the code to 'fix a problem.'" },
+        { title: "The Deepfake Impersonation", tags: "<strong>Scenario:</strong><br>An AI-generated image and a fake account impersonating a student start spreading. The student is upset and classmates are unsure whether it’s real." },
+        { title: "The Serious Coercion Threat", tags: "<strong>Scenario:</strong><br>A student says someone online is threatening to share or expose something private unless they send money or more content. The student is scared and thinking about paying or handling it alone." }
       ],
       downloads: [
-        { type: "DOCX", label: "Teacher Guide", desc: "Full unit: scripted lessons, tabletops, assessment, printables", href: "" },
-        { type: "PPTX", label: "Slide Deck", desc: "Project during class — one section per lesson", href: "" },
-        { type: "DOCX", label: "Substitute Plan", desc: "One page, no prep — any sub can run it", href: "" }
+        { type: "DOCX", label: "Teacher Guide", desc: "Full unit: scripted lessons, tabletops, assessment, printables", href: "downloads/CyberSWAT_Grade9_Unit.docx" },
+        { type: "PPTX", label: "Slide Deck", desc: "Project during class — one section per lesson", href: "downloads/CyberSWAT_Grade9_Slides.pptx" },
+        { type: "DOCX", label: "Substitute Plan", desc: "One page, no prep — any sub can run it", href: "downloads/CyberSWAT_Grade9_Sub_Plan.docx" }
       ]
     },
 
@@ -331,15 +331,15 @@ gradePagePartner: {
           model: "I'm crediting the source and thinking about who this content could affect." }
       ],
       tabletops: [
-        { title: "The Viral Claim", tags: "Lateral reading, source verification" },
-        { title: "The Endless Scroll", tags: "Attention economy, self-awareness" },
-        { title: "The AI-Generated Image", tags: "Synthetic media, disclosure" },
-        { title: "The Uncredited Repost", tags: "Ethical creation, attribution" }
+        { title: "The Viral Claim", tags: "<strong>Scenario:</strong><br>A shocking post, with a dramatic image and a big statistic, is spreading fast through a group chat. People are resharing it and demanding everyone react. One student isn’t sure it’s real." },
+        { title: "The Algorithm Rabbit Hole", tags: "<strong>Scenario:</strong><br>A student notices their feed keeps pushing more extreme and comparison-heavy content the longer they watch, and they’re feeling worse and staying up late. A friend asks for help managing it." },
+        { title: "The Free App Data Trade", tags: "<strong>Scenario:</strong><br>A fun new quiz app (or AI photo tool) is everywhere. It’s free, but it asks for contacts, photos, and rights to anything you upload, buried in a long agreement no one reads." },
+        { title: "The Creator's Dilemma", tags: "<strong>Scenario:</strong><br>A student creator can get a lot of attention by reposting someone else’s work as their own, using an AI-generated image without disclosing it, or posting something edgy about a classmate for clout." }
       ],
       downloads: [
-        { type: "DOCX", label: "Teacher Guide", desc: "Full unit: scripted lessons, tabletops, assessment, printables", href: "" },
-        { type: "PPTX", label: "Slide Deck", desc: "Project during class — one section per lesson", href: "" },
-        { type: "DOCX", label: "Substitute Plan", desc: "One page, no prep — any sub can run it", href: "" }
+        { type: "DOCX", label: "Teacher Guide", desc: "Full unit: scripted lessons, tabletops, assessment, printables", href: "downloads/CyberSWAT_Grade10_Unit.docx" },
+        { type: "PPTX", label: "Slide Deck", desc: "Project during class — one section per lesson", href: "downloads/CyberSWAT_Grade10_Slides.pptx" },
+        { type: "DOCX", label: "Substitute Plan", desc: "One page, no prep — any sub can run it", href: "downloads/CyberSWAT_Grade10_Sub_Plan.docx" }
       ]
     },
 
