@@ -97,7 +97,25 @@
         <div class="grade-summary">${g.summary}</div>
       </a>`;
     }).join("");
-
+const swat = SITE.swatProgram;
+    const swatCards = swat ? swat.sections.map(s => `
+      <div class="swat-card">
+        <h4>${s.heading}</h4>
+        <ul class="check-list">
+          ${s.items.map(i => `<li>${i}</li>`).join("")}
+        </ul>
+      </div>`).join("") : "";
+    const swatBlock = swat ? `
+      <section class="swat-section">
+        <div class="wrap">
+          <div class="swat-head">
+            <span class="eyebrow eyebrow-dark">${swat.citation}</span>
+            <h2>${swat.title}</h2>
+            <p>${swat.subtitle}</p>
+          </div>
+          <div class="swat-grid">${swatCards}</div>
+        </div>
+      </section>` : "";
     mount.innerHTML = `
       <section class="hero">
         <div class="wrap">
