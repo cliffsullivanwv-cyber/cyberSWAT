@@ -144,7 +144,7 @@ gradePagePartner: {
           model: "I will not enter my password. I'll show the message to a trusted adult to verify it." }
       ],
       tabletops: [
-        { title: "The Unknown Gamer", tags: "Senario: A student is playing an online game. Another player says they're the same age and asks what school the student attends. Then the player asks for the student's real name and picture" },
+        { title: "The Unknown Gamer", tags: "<strong>Senario:</strong><br> A student is playing an online game. Another player says they're the same age and asks what school the student attends. Then the player asks for the student's real name and picture" },
         { title: "The Group Chat Problem", tags: "Cyberbullying, bystander/upstander, reporting" },
         { title: "The Copied Project", tags: "Copyright, citation, fair-use basics" },
         { title: "The Risky Message", tags: "Pressure, unsafe requests, reporting" }
