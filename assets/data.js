@@ -144,10 +144,10 @@ gradePagePartner: {
           model: "I will not enter my password. I'll show the message to a trusted adult to verify it." }
       ],
       tabletops: [
-        { title: "The Unknown Gamer", tags: "<strong>Senario:</strong><br> A student is playing an online game. Another player says they're the same age and asks what school the student attends. Then the player asks for the student's real name and picture." },
-        { title: "The Group Chat Problem", tags: "<strong>Senario:</strong><br> A group chat includes jokes about a student. Someone shares a screenshot from that student’s private message. Several students add comments. One student knows it’s wrong but worries others will be mad if they speak up." },
-        { title: "The Copied Project", tags: "<strong>Senario:</strong><br> A student is making a slideshow for class and copies images, music, and paragraphs from websites without giving credit. Another student says, 'It’s online, so it’s free to use.'" },
-        { title: "The Risky Message", tags: "<strong>Senario:</strong><br> A student receives repeated messages from someone pressuring them to send something private and threatening to embarrass them if they don’t respond. The student feels uncomfortable and unsure what to do." }
+        { title: "The Unknown Gamer", tags: "<strong>Scenario:</strong><br> A student is playing an online game. Another player says they're the same age and asks what school the student attends. Then the player asks for the student's real name and picture." },
+        { title: "The Group Chat Problem", tags: "<strong>Scenario:</strong><br> A group chat includes jokes about a student. Someone shares a screenshot from that student’s private message. Several students add comments. One student knows it’s wrong but worries others will be mad if they speak up." },
+        { title: "The Copied Project", tags: "<strong>Scenario:</strong><br> A student is making a slideshow for class and copies images, music, and paragraphs from websites without giving credit. Another student says, 'It’s online, so it’s free to use.'" },
+        { title: "The Risky Message", tags: "<strong>Scenario:</strong><br> A student receives repeated messages from someone pressuring them to send something private and threatening to embarrass them if they don’t respond. The student feels uncomfortable and unsure what to do." }
       ],
       downloads: [
         { type: "DOCX", label: "Teacher Guide", desc: "34-page unit: scripted lessons, tabletops, assessment, printables", href: "downloads/CyberSWAT_Grade6_Unit.docx" },
