@@ -110,6 +110,20 @@ const swat = SITE.swatProgram;
           </ul>
         </div>
       </details>`).join("") : "";
+
+    const swatBlock = swat ? `
+      <section class="swat-section">
+        <div class="wrap">
+          <div class="swat-head">
+            <span class="eyebrow eyebrow-dark">${swat.citation}</span>
+            <h2>${swat.title}</h2>
+            <p>${swat.subtitle}</p>
+          </div>
+          <div class="swat-grid">${swatCards}</div>
+        </div>
+      </section>` : "";
+
+    mount.innerHTML = `
     mount.innerHTML = `
       <section class="hero">
         <div class="wrap">
