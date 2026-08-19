@@ -174,10 +174,10 @@ gradePagePartner: {
           model: "I won't forward this. I don't know if it's true or if it's okay to share." }
       ],
       tabletops: [
-        { title: "The Screenshot That Spread", tags: "<strong>Scenario:</strong><br>A student shares a screenshot from a private conversation in a group chat. The screenshot makes another student look bad, and several students begin reacting and commenting." },
-        { title: "The Public Callout", tags: "<strong>Scenario:</strong><br>A student receives a message that says, 'Your school account will be deleted unless you click this link and confirm your password.'" },
-        { title: "The Silent Bystander", tags: "<strong>Scenario:</strong><br>A student receives repeated messages from someone who says, 'If you really trust me, send something private.' The student feels uncomfortable and doesn’t know what to do." },
-        { title: "The Impersonation Account", tags: "<strong>Scenario:</strong><br>A student creates a video project using copied music, images from websites, and paragraphs from an article without giving credit. The student says, 'It’s fine because it was online.'" }
+        { title: "The Private Screenshot", tags: "<strong>Scenario:</strong><br>A student shares a screenshot from a private conversation in a group chat. The screenshot makes another student look bad, and several students begin reacting and commenting." },
+        { title: "The Suspicious Link", tags: "<strong>Scenario:</strong><br>A student receives a message that says, 'Your school account will be deleted unless you click this link and confirm your password.'" },
+        { title: "The Pressure Message", tags: "<strong>Scenario:</strong><br>A student receives repeated messages from someone who says, 'If you really trust me, send something private.' The student feels uncomfortable and doesn’t know what to do." },
+        { title: "The Copied Media Project", tags: "<strong>Scenario:</strong><br>A student creates a video project using copied music, images from websites, and paragraphs from an article without giving credit. The student says, 'It’s fine because it was online.'" }
       ],
       downloads: [
         { type: "DOCX", label: "Teacher Guide", desc: "Full unit: scripted lessons, tabletops, assessment, printables", href: "downloads/CyberSWAT_Grade7_Unit.docx" },
