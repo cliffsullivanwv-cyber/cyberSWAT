@@ -128,7 +128,8 @@ const swat = SITE.swatProgram;
           </div>
           <div class="stat-row">${stats}</div>
         </div>
-      </section>
+     </section>
+      ${swatBlock}
 
       <section class="ladder-section" id="grades">
         <div class="wrap">
