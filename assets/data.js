@@ -208,9 +208,9 @@ gradePagePartner: {
         { title: "The Reporting Maze", tags: "Building a personal reporting pathway" }
       ],
       downloads: [
-        { type: "DOCX", label: "Teacher Guide", desc: "Full unit: scripted lessons, tabletops, assessment, printables", href: "" },
-        { type: "PPTX", label: "Slide Deck", desc: "Project during class — one section per lesson", href: "" },
-        { type: "DOCX", label: "Substitute Plan", desc: "One page, no prep — any sub can run it", href: "" }
+        { type: "DOCX", label: "Teacher Guide", desc: "Full unit: scripted lessons, tabletops, assessment, printables", href: "downloads/CyberSWAT_Grade8_Unit.docx" },
+        { type: "PPTX", label: "Slide Deck", desc: "Project during class — one section per lesson", href: "downloads/CyberSWAT_Grade8_Slides.pptx" },
+        { type: "DOCX", label: "Substitute Plan", desc: "One page, no prep — any sub can run it", href: "downloads/CyberSWAT_Grade8_Sub_Plan.docx" }
       ]
     },
 
