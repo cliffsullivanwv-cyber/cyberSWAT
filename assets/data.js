@@ -202,10 +202,10 @@ gradePagePartner: {
           model: "I'm not handling this alone — I'm reporting it to [trusted adult]." }
       ],
       tabletops: [
-        { title: "The Data Breach Rumor", tags: "Account security, verifying before acting" },
-        { title: "The Peer Pressure DM", tags: "Refusal scripts, stepping back" },
-        { title: "The Anonymous App", tags: "Anonymity risks, ethical decision-making" },
-        { title: "The Reporting Maze", tags: "Building a personal reporting pathway" }
+        { title: "Group Chat Escalation", tags: "<strong>Scenario:</strong><br>A group chat begins with jokes but turns into harmful comments about a student. Some students start saving and resharing screenshots." },
+        { title: "The Account Takeover Warning", tags: "<strong>Scenario:</strong><br>A student receives account alerts and then a message asking for a password to 'fix the problem.' The student worries the account may be compromised." },
+        { title: "The Private Content Threat", tags: "<strong>Scenario:</strong><br>A student says someone online is threatening to embarrass them unless they send or do something private. The student is afraid to tell an adult." },
+        { title: "The High School Reputation Check", tags: "<strong>Scenario:</strong><br>A student is about to enter high school and finds old posts, comments, and shared content that may affect how others view them." }
       ],
       downloads: [
         { type: "DOCX", label: "Teacher Guide", desc: "Full unit: scripted lessons, tabletops, assessment, printables", href: "downloads/CyberSWAT_Grade8_Unit.docx" },
