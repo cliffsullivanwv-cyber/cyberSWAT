@@ -218,18 +218,21 @@ section.tight{ padding:32px 0; }
 .grade-hero .cta-row{ margin-top:24px; display:flex; gap:12px; flex-wrap:wrap; }
 /* ---------- grade-page partner callout ---------- */
 .resource-callout{
-  display:flex; align-items:center; gap:14px; text-decoration:none; color:var(--ink);
-  background:var(--paper-raised); border:1px solid var(--line); border-radius:var(--radius);
-  padding:16px 20px; box-shadow:var(--shadow);
+  display:flex; align-items:center; gap:16px; text-decoration:none; color:var(--ink);
+  background:var(--paper-raised); border:1px solid var(--line); border-left:4px solid var(--partner-color, var(--teal));
+  border-radius:var(--radius); padding:14px 20px; box-shadow:var(--shadow);
 }
-.resource-callout .dot{ width:8px; height:8px; border-radius:99px; background:var(--teal); flex-shrink:0; }
+.resource-callout .dot{ width:8px; height:8px; border-radius:99px; background:var(--partner-color, var(--teal)); flex-shrink:0; }
+.resource-callout .rc-logo{
+  height:34px; width:auto; max-width:150px; object-fit:contain; flex-shrink:0;
+}
 .resource-callout .rc-text{ flex:1; }
-.resource-callout .rc-text h5{ margin:0 0 2px; font-size:.95rem; font-family:var(--font-body); font-weight:700; }
+.resource-callout .rc-text h5{ margin:0 0 2px; font-size:.95rem; font-family:var(--font-body); font-weight:700; color:var(--partner-color, var(--ink)); }
 .resource-callout .rc-text p{ margin:0; font-size:.83rem; color:var(--ink-soft); }
-.resource-callout .rc-go{ font-size:.82rem; font-weight:600; color:var(--teal); white-space:nowrap; }
+.resource-callout .rc-go{ font-size:.82rem; font-weight:600; color:var(--partner-color, var(--teal)); white-space:nowrap; }
 @media (max-width:560px){
   .resource-callout{ flex-wrap:wrap; }
-  .resource-callout .rc-go{ margin-left:22px; }
+  .resource-callout .rc-go{ margin-left:50px; }
 }
 /* ---------- downloads ---------- */
 .download-grid{ display:grid; grid-template-columns:repeat(3,1fr); gap:16px; }
