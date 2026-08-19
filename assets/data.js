@@ -150,7 +150,7 @@ gradePagePartner: {
         { title: "The Risky Message", tags: "Pressure, unsafe requests, reporting" }
       ],
       downloads: [
-        { type: "DOCX", label: "Teacher Guide", desc: "34-page unit: scripted lessons, tabletops, assessment, printables", href: "" },
+        { type: "DOCX", label: "Teacher Guide", desc: "34-page unit: scripted lessons, tabletops, assessment, printables", href: "CyberSWAT_Grade6_Unit.docx" },
         { type: "PPTX", label: "Slide Deck", desc: "22-slide deck — one section per lesson", href: "" },
         { type: "DOCX", label: "Substitute Plan", desc: "One page, no prep — any sub can run it", href: "" }
       ]
