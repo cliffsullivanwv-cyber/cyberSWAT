@@ -387,15 +387,15 @@ gradePagePartner: {
           model: "This is now my responsibility — here's my plan going forward." }
       ],
       tabletops: [
-        { title: "The Underclassman's Question", tags: "Mentoring, modeling safe habits" },
-        { title: "The AI Homework Shortcut", tags: "Academic honesty, responsible AI use" },
-        { title: "The Post-Graduation Checklist", tags: "Independence, lifelong habits" },
-        { title: "The Workplace Phishing Test", tags: "Career readiness, staying alert" }
+        { title: "The Mentor Moment", tags: "<strong>Scenario:</strong><br>A younger student the senior knows is being pressured in a group chat and is scared to tell anyone. They come to the senior for help instead of an adult." },
+        { title: "The AI Integrity Dilemma", tags: "<strong>Scenario:</strong><br>A senior is short on time for a college essay or a job task. They could have AI write most of it and submit it as their own, with no disclosure, and no one would likely know." },
+        { title: "The Manipulation in the Public Square", tags: "<strong>Scenario:</strong><br>Right before an election or a big community decision, a realistic AI deepfake and a wave of coordinated posts spread a false claim designed to change how people vote or react." },
+        { title: "The Independence Launch", tags: "<strong>Scenario:</strong><br>A senior is setting up life on their own, new accounts, a first solo device and Wi-Fi, banking, and no school IT to call if something breaks. They want to be ready before they need it." }
       ],
       downloads: [
-        { type: "DOCX", label: "Teacher Guide", desc: "Full unit: scripted lessons, tabletops, assessment, printables", href: "" },
-        { type: "PPTX", label: "Slide Deck", desc: "Project during class — one section per lesson", href: "" },
-        { type: "DOCX", label: "Substitute Plan", desc: "One page, no prep — any sub can run it", href: "" }
+        { type: "DOCX", label: "Teacher Guide", desc: "Full unit: scripted lessons, tabletops, assessment, printables", href: "downloads/CyberSWAT_Grade12_Unit.docx" },
+        { type: "PPTX", label: "Slide Deck", desc: "Project during class — one section per lesson", href: "downloads/CyberSWAT_Grade12_Slides.pptx" },
+        { type: "DOCX", label: "Substitute Plan", desc: "One page, no prep — any sub can run it", href: "downloads/CyberSWAT_Grade12_Sub_Plan.docx" }
       ]
     }
 
