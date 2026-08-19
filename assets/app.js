@@ -124,7 +124,6 @@ const swat = SITE.swatProgram;
       </section>` : "";
 
     mount.innerHTML = `
-    mount.innerHTML = `
       <section class="hero">
         <div class="wrap">
           <span class="eyebrow">Grades 3–12 · Digital Citizenship &amp; Online Safety</span>
