@@ -23,7 +23,9 @@ const SITE = {
 gradePagePartner: {
     title: "Learning.com",
     url: "https://www.learning.com/",
-    note: "Preparing K–12 students with future-ready digital skills — companion courseware for this unit."
+    note: "Preparing K–12 students with future-ready digital skills — companion courseware for this unit.",
+    logo: "https://www.learning.com/wp-content/uploads/2021/02/Learning_Logo_Tag.png",
+    color: "#1B6FA8"
   },
   bands: [
     { id: "elementary", label: "Grades 3–5",  name: "Foundations",   color: "var(--amber)" },
