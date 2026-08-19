@@ -27,6 +27,79 @@ gradePagePartner: {
     logo: "https://www.learning.com/wp-content/uploads/2021/02/Learning_Logo_Tag.png",
     color: "#1B6FA8"
   },
+   swatProgram: {
+    title: "SWAT Program Requirements (SB 466)",
+    subtitle: "Safety While Accessing Technology Education Program",
+    citation: "West Virginia Code §18-2-44",
+    sections: [
+      {
+        heading: "Purpose of the Law",
+        items: [
+          "Requires schools to provide annual instruction to help students safely and responsibly use technology and understand online risks."
+        ]
+      },
+      {
+        heading: "Who Must Be Served",
+        items: [
+          "All students in Grades 3–12",
+          "Applies to all public schools in the district"
+        ]
+      },
+      {
+        heading: "Instruction Requirements",
+        items: [
+          "Must be provided at least once each school year",
+          "Must be age-appropriate",
+          "Must cover all required topics",
+          "Must be designed using peer-to-peer modeling and observational learning (Bandura)"
+        ]
+      },
+      {
+        heading: "Required Instructional Topics",
+        items: [
+          "Safe and responsible use of social media, messaging, and online tools",
+          "Risks of sharing personal information and importance of privacy",
+          "Copyright laws for digital content",
+          "Importance of communication with trusted adults",
+          "Recognizing, avoiding, and reporting online predators, scams, and cyberbullying",
+          "Awareness of support resources including the CyberTipline",
+          "Risks of sharing sexually suggestive or explicit content, including legal, social, emotional, and long-term impacts"
+        ]
+      },
+      {
+        heading: "County (District) Responsibilities",
+        items: [
+          "Adopt policy requiring SWAT instruction in all schools",
+          "Ensure annual instruction for all students in Grades 3–12",
+          "Ensure materials are age-appropriate and meet required topics"
+        ]
+      },
+      {
+        heading: "Parent Rights Requirements",
+        items: [
+          "Provide process for parents to review instructional materials",
+          "Provide option for parents to opt their child out"
+        ]
+      },
+      {
+        heading: "Implementation Timeline",
+        items: [
+          "Program must be implemented beginning with the 2025–2026 school year"
+        ]
+      },
+      {
+        heading: "Key Compliance Expectations",
+        items: [
+          "Annual instruction is completed",
+          "All required topics are addressed",
+          "Instruction is age-appropriate",
+          "Parent access to materials is provided",
+          "Opt-out process is available",
+          "Instruction includes peer modeling and discussion"
+        ]
+      }
+    ]
+  },
   bands: [
     { id: "elementary", label: "Grades 3–5",  name: "Foundations",   color: "var(--amber)" },
     { id: "middle",     label: "Grades 6–8",  name: "Responsibility",color: "var(--teal)"  },
