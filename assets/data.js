@@ -359,15 +359,15 @@ gradePagePartner: {
           model: "If this happened to me, here's my plan: contain it, report it, recover." }
       ],
       tabletops: [
-        { title: "The Job Offer Scam", tags: "Financial fraud, verify-and-refuse" },
-        { title: "The Identity Theft Alert", tags: "Credit/identity basics, response steps" },
-        { title: "The LinkedIn Request", tags: "Professional presence, public vs. private" },
-        { title: "The Ransomware Scenario", tags: "Incident response, staying calm" }
+        { title: "The Background Check", tags: "<strong>Scenario:</strong><br>A student is a finalist for a competitive internship. The employer says they’ll ‘look them up.’ The student has an unprofessional email, a mixed personal-and-professional feed, and no visible proof of their skills." },
+        { title: "The Too-Good Job Offer", tags: "<strong>Scenario:</strong><br>A student gets a ‘remote job’ offer with easy money. The ‘employer’ sends a check to buy equipment, asks them to deposit it and send back the difference, and wants their SSN and bank login to ‘set up payroll.’" },
+        { title: "The Data Breach Notice", tags: "<strong>Scenario:</strong><br>A student gets a notice that a service they use was breached and their email, password, and some personal info may be exposed. They reused that password on other accounts." },
+        { title: "The Rights & Responsibility Case", tags: "<strong>Scenario:</strong><br>A near-adult student faces a choice: agree to a service’s terms without reading, reshare something that may be defamatory or harassing, or use copyrighted or AI-generated work without permission or disclosure, each with real legal weight now." }
       ],
       downloads: [
-        { type: "DOCX", label: "Teacher Guide", desc: "Full unit: scripted lessons, tabletops, assessment, printables", href: "" },
-        { type: "PPTX", label: "Slide Deck", desc: "Project during class — one section per lesson", href: "" },
-        { type: "DOCX", label: "Substitute Plan", desc: "One page, no prep — any sub can run it", href: "" }
+        { type: "DOCX", label: "Teacher Guide", desc: "Full unit: scripted lessons, tabletops, assessment, printables", href: "downloads/CyberSWAT_Grade11_Unit.docx" },
+        { type: "PPTX", label: "Slide Deck", desc: "Project during class — one section per lesson", href: "downloads/CyberSWAT_Grade11_Slides.pptx" },
+        { type: "DOCX", label: "Substitute Plan", desc: "One page, no prep — any sub can run it", href: "downloads/CyberSWAT_Grade11_Sub_Plan.docx" }
       ]
     },
 
