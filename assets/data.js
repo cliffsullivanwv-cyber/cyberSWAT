@@ -423,12 +423,14 @@ gradePagePartner: {
         ]
       },
       {
-        name: "Cyberbullying & Reporting",
-        links: [
-          { title: "StopBullying.gov", url: "https://www.stopbullying.gov", note: "Federal cyberbullying prevention and reporting guidance" },
-          { title: "NetSmartz (NCMEC)", url: "https://www.missingkids.org/netsmartz", note: "Age-graded online-safety resources from the National Center for Missing & Exploited Children" }
-        ]
-      },
+        {
+  name: "Cyberbullying & Reporting",
+  links: [
+    { title: "StopBullying.gov", url: "https://www.stopbullying.gov", note: "Federal cyberbullying prevention and reporting guidance" },
+    { title: "NetSmartz (NCMEC)", url: "https://www.missingkids.org/netsmartz", note: "Age-graded online-safety resources from the National Center for Missing & Exploited Children" },
+    { title: "The TAKE IT DOWN Act", url: "https://www.congress.gov/crs-product/LSB11314", note: "Congress.gov summary of the federal law prohibiting nonconsensual publication of intimate images" }
+  ]
+},
       {
         name: "CIPA Resources & Resources for Students",
         links: [
@@ -461,10 +463,15 @@ gradePagePartner: {
         ]
       },
       {
-        name: "Parent & Family Resources",
-        links: []
-      }
-    ]
-  }
+   {
+  name: "Parent & Family Resources",
+  links: [
+    { title: "Common Sense Media", url: "https://www.commonsensemedia.org", note: "Age-based reviews and ratings for apps, games, and shows, plus family tech agreements" },
+    { title: "ConnectSafely", url: "https://www.connectsafely.org/", note: "Parent guides on social media, gaming, and online safety" },
+    { title: "Family Online Safety Institute (FOSI)", url: "https://www.fosi.org/", note: "Research and resources for raising kids in a connected world" },
+    { title: "National Cybersecurity Alliance — Stay Safe Online", url: "https://staysafeonline.org/", note: "Family-friendly cybersecurity basics and online safety tips" },
+    { title: "HealthyChildren.org (AAP)", url: "https://www.healthychildren.org/English/family-life/Media/Pages/default.aspx", note: "Pediatrician-backed guidance on screen time and healthy media habits" }
+  ]
+}
 
 };
