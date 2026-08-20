@@ -116,7 +116,8 @@ const swat = SITE.swatProgram;
         <div class="wrap">
           <div class="swat-head">
             <span class="eyebrow eyebrow-dark">${swat.citation}</span>
-            <h2>${swat.title}</h2>
+           <h2>${swat.title}</h2>
+            ${swat.link ? `<a class="swat-link" href="${swat.link.url}" target="_blank" rel="noopener">${swat.link.text} ↗</a>` : ""}
             <p>${swat.subtitle}</p>
           </div>
           <div class="swat-grid">${swatCards}</div>
