@@ -141,9 +141,9 @@ gradePagePartner: {
         { title: "Ask-First Roleplay", tags: "Practicing the ask-first habit" }
       ],
       downloads: [
-        { type: "DOCX", label: "Teacher Guide", desc: "Full unit: scripted lessons, tabletops, printables", href: "" },
-        { type: "PPTX", label: "Slide Deck", desc: "Project during class — one section per lesson", href: "" },
-        { type: "DOCX", label: "Substitute Plan", desc: "One page, no prep — any sub can run it", href: "" }
+        { type: "DOCX", label: "Teacher Guide", desc: "Full unit: scripted lessons, tabletops, printables", href: "downloads/CyberSWAT_Grade3_Unit.docx" },
+        { type: "PPTX", label: "Slide Deck", desc: "Project during class — one section per lesson", href: "downloads/CyberSWAT_Grade3_Slides.pptx" },
+        { type: "DOCX", label: "Substitute Plan", desc: "One page, no prep — any sub can run it", href: "downloads/CyberSWAT_Grade3_Sub_Plan.docx" }
       ]
     },
 
