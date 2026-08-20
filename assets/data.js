@@ -135,7 +135,7 @@ gradePagePartner: {
           model: "I'll ask a grown-up before I download or click on that." }
       ],
       tabletops: [
-        { title: "The New Game Pop-Up", tags: "<strong>Scenario:</strong><br>A student is playing a game on the class tablet. A pop-up message appears that says, "You Won! Click here to claim your prize!" The student is not sure what to do." },
+        { title: "The New Game Pop-Up", tags: "<strong>Scenario:</strong><br>A student is playing a game on the class tablet. A pop-up message appears that says, 'You Won! Click here to claim your prize!' The student is not sure what to do." },
         { title: "The Unkind Message", tags: "<strong>Scenario:</strong><br>A student receives a message from a classmate that says something mean about how they look. The student feels sad and does not know what to do next." },
         { title: "Whose Password Is It?", tags: "<strong>Scenario:</strong><br>A student's friend asks to borrow their tablet password so they can play a game together at recess. The student is not sure if that is okay." },
         { title: "Ask-First Roleplay", tags: "<strong>Scenario:</strong><br>A student finds a fun new app on the family tablet and wants to download it right away, without asking first." }
@@ -164,8 +164,8 @@ gradePagePartner: {
       ],
       tabletops: [
         { title: "The Shared Tablet", tags: "<strong>Scenario:</strong><br>Two students share a classroom tablet. One student is still logged into their account when the other student sits down to use it next." },
-        { title: "The Chain Message", tags: "<strong>Scenario:</strong><br>A student gets a message that says, "Send this to 10 friends or something bad will happen!" The student is scared and wants to forward it right away." },
-        { title: "The Too-Good-To-Be-True Prize", tags: "<strong>Scenario:</strong><br>An ad pops up saying, "You are the 100th visitor! Enter your name and address to win a new bike!"" },
+        { title: "The Chain Message", tags: "<strong>Scenario:</strong><br>A student gets a message that says, 'Send this to 10 friends or something bad will happen!' The student is scared and wants to forward it right away." },
+        { title: "The Too-Good-To-Be-True Prize", tags: "<strong>Scenario:</strong><br>An ad pops up saying, 'You are the 100th visitor! Enter your name and address to win a new bike!'" },
         { title: "The Group Project Chat", tags: "<strong>Scenario:</strong><br>In a group chat for a class project, one student keeps sending jokes and off-topic messages instead of working." }
       ],
       downloads: [
