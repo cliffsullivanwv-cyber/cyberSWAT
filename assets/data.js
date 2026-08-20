@@ -135,10 +135,10 @@ gradePagePartner: {
           model: "I'll ask a grown-up before I download or click on that." }
       ],
       tabletops: [
-        { title: "The New Game Pop-Up", tags: "Unexpected prompts, asking first" },
-        { title: "The Unkind Message", tags: "Kindness, telling a trusted adult" },
-        { title: "Whose Password Is It?", tags: "Privacy basics, keeping info safe" },
-        { title: "Ask-First Roleplay", tags: "Practicing the ask-first habit" }
+        { title: "The New Game Pop-Up", tags: "<strong>Scenario:</strong><br>A student is playing a game on the class tablet. A pop-up message appears that says, 'You Won! Click here to claim your prize!' The student is not sure what to do." },
+        { title: "The Unkind Message", tags: "<strong>Scenario:</strong><br>A student receives a message from a classmate that says something mean about how they look. The student feels sad and does not know what to do next." },
+        { title: "Whose Password Is It?", tags: "<strong>Scenario:</strong><br>A student's friend asks to borrow their tablet password so they can play a game together at recess. The student is not sure if that is okay." },
+        { title: "Ask-First Roleplay", tags: "<strong>Scenario:</strong><br>A student finds a fun new app on the family tablet and wants to download it right away, without asking first." }
       ],
       downloads: [
         { type: "DOCX", label: "Teacher Guide", desc: "Full unit: scripted lessons, tabletops, printables", href: "downloads/CyberSWAT_Grade3_Unit.docx" },
@@ -163,10 +163,10 @@ gradePagePartner: {
           model: "I'll check with an adult before I believe or share this." }
       ],
       tabletops: [
-        { title: "The Shared Tablet", tags: "Account privacy, shared devices" },
-        { title: "The Chain Message", tags: "Forwarding, verifying before sharing" },
-        { title: "The Too-Good-To-Be-True Prize", tags: "Early scam awareness" },
-        { title: "The Group Project Chat", tags: "Digital manners, staying on-topic" }
+        { title: "The Shared Tablet", tags: "<strong>Scenario:</strong><br>Two students share a classroom tablet. One student is still logged into their account when the other student sits down to use it next." },
+        { title: "The Chain Message", tags: "<strong>Scenario:</strong><br>A student gets a message that says, 'Send this to 10 friends or something bad will happen!' The student is scared and wants to forward it right away." },
+        { title: "The Too-Good-To-Be-True Prize", tags: "<strong>Scenario:</strong><br>An ad pops up saying, 'You are the 100th visitor! Enter your name and address to win a new bike!'" },
+        { title: "The Group Project Chat", tags: "<strong>Scenario:</strong><br>In a group chat for a class project, one student keeps sending jokes and off-topic messages instead of working." }
       ],
       downloads: [
         { type: "DOCX", label: "Teacher Guide", desc: "Full unit: scripted lessons, tabletops, printables", href: "downloads/CyberSWAT_Grade4_Unit.docx" },
@@ -191,10 +191,10 @@ gradePagePartner: {
           model: "I follow my family's tech rules and take breaks on my own." }
       ],
       tabletops: [
-        { title: "The New Online Friend", tags: "Stranger contact, personal info" },
-        { title: "The Embarrassing Photo", tags: "Digital footprint, thinking ahead" },
-        { title: "The Screen-Time Negotiation", tags: "Self-regulation, family rules" },
-        { title: "The Copy-Paste Report", tags: "Citing sources, academic honesty" }
+        { title: "The New Online Friend", tags: "<strong>Scenario:</strong><br>While playing an online game, a student starts chatting with someone they've never met. The stranger asks the student's real name, school, and what they look like." },
+        { title: "The Embarrassing Photo", tags: "<strong>Scenario:</strong><br>A student takes a funny but embarrassing photo of a friend and is about to post it in the class group chat without asking." },
+        { title: "The Screen-Time Negotiation", tags: "<strong>Scenario:</strong><br>A student wants to use screens for two more hours after already hitting the family's daily limit and is deciding whether to ask or just keep going." },
+        { title: "The Copy-Paste Report", tags: "<strong>Scenario:</strong><br>While researching for a report, a student finds a paragraph online that says exactly what they want to say and considers copying it directly." }
       ],
       downloads: [
         { type: "DOCX", label: "Teacher Guide", desc: "Full unit: scripted lessons, tabletops, printables", href: "downloads/CyberSWAT_Grade5_Unit.docx" },
