@@ -31,6 +31,10 @@ gradePagePartner: {
     title: "SWAT Program Requirements (SB 466)",
     subtitle: "Safety While Accessing Technology Education Program",
     citation: "West Virginia Code §18-2-44",
+      link: {
+      text: "SB 466 Text",
+      url: "https://www.wvlegislature.gov/Bill_Status/bills_text.cfm?billdoc=sb466%20sub1.htm&yr=2024&sesstype=RS&i=466"
+    },
     sections: [
       {
         heading: "Purpose of the Law",
