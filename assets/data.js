@@ -410,44 +410,43 @@ gradePagePartner: {
      you want inside any category's "links" array, or add a
      brand new category by copying the {name, links: []} shape.
      --------------------------------------------------------- */
-  resources: {
+ resources: {
     categories: [
       {
         name: "Digital Safety & Privacy",
         links: [
           { title: "Common Sense Education", url: "https://www.commonsense.org/education", note: "Free K–12 digital citizenship curriculum & lesson library" },
           { title: "Cyber Safe Schools", url: "https://www.cybersafeschools-nw3c.org/", note: "Free K–12 digital citizenship curriculum & lesson library" },
-           { title: "Classroom Internet Safety Curriculum", url: "https://csnp.org/resources/parents/classroom-internet-safety-curriculum/", note: "Free K–12 digital citizenship curriculum & lesson library" },
+          { title: "Classroom Internet Safety Curriculum", url: "https://csnp.org/resources/parents/classroom-internet-safety-curriculum/", note: "Free K–12 digital citizenship curriculum & lesson library" },
           { title: "FTC — OnGuardOnline / Consumer Security", url: "https://consumer.ftc.gov/online-security", note: "Federal guidance on scams, privacy, and online security" },
-          { title: "Educator Resources - iKeepSafe", url: "https://ikeepsafe.org/resources/educator/", note: "Privacy Compliance for Education Technology" }  
+          { title: "Educator Resources - iKeepSafe", url: "https://ikeepsafe.org/resources/educator/", note: "Privacy Compliance for Education Technology" }
         ]
       },
       {
-        {
-  name: "Cyberbullying & Reporting",
-  links: [
-    { title: "StopBullying.gov", url: "https://www.stopbullying.gov", note: "Federal cyberbullying prevention and reporting guidance" },
-    { title: "NetSmartz (NCMEC)", url: "https://www.missingkids.org/netsmartz", note: "Age-graded online-safety resources from the National Center for Missing & Exploited Children" },
-    { title: "The TAKE IT DOWN Act", url: "https://www.congress.gov/crs-product/LSB11314", note: "Congress.gov summary of the federal law prohibiting nonconsensual publication of intimate images" }
-  ]
-},
+        name: "Cyberbullying & Reporting",
+        links: [
+          { title: "StopBullying.gov", url: "https://www.stopbullying.gov", note: "Federal cyberbullying prevention and reporting guidance" },
+          { title: "NetSmartz (NCMEC)", url: "https://www.missingkids.org/netsmartz", note: "Age-graded online-safety resources from the National Center for Missing & Exploited Children" },
+          { title: "The TAKE IT DOWN Act", url: "https://www.congress.gov/crs-product/LSB11314", note: "Congress.gov summary of the federal law prohibiting nonconsensual publication of intimate images" }
+        ]
+      },
       {
         name: "CIPA Resources & Resources for Students",
         links: [
           { title: "Teachers' Essential Guide to Digital Citizenship for CIPA and E-Rate", url: "https://www.commonsense.org/education/articles/essential-guide-to-digital-citizenship-for-cipa-and-e-rate#How%20do%20I%20get%20started%20with%20meeting%20CIPA%20requirements?", note: "What is E-rate?" },
-          { title: "Digital Citizenship for CIPA and E-Rate", url: "extension://efaidnbmnnnibpcajpcglclefindmkaj/https://www.commonsense.org/sites/default/files/pdf/2020-09/document-digital-citizenship-for-cipa-and-e-rate_2.pdf", note: "PDF from Common Sense Media with Links" }, 
-          { title: "30 Great Lesson Plans for Internet Safety", url: "https://www.commonsense.org/education/articles/30-great-lesson-plans-for-internet-safety", note: "Help kids practice smart internet habits and stay safe online" }, 
-          { title: "Learning.Com", url: "https://www.learning.com/", note: "Empower West Virginia Students with Essential Digital Literacy Skills" }, 
-          { title: "Khan Academy", url: "https://www.khanacademy.org/college-careers-more/internet-safety", note: "Internet Safety" }, 
-          { title: "Be Internet Awesome", url: "https://beinternetawesome.withgoogle.com/en_us/", note: "Empowering kids to be safe, confident explorers of the online world." }, 
+          { title: "Digital Citizenship for CIPA and E-Rate", url: "https://www.commonsense.org/sites/default/files/pdf/2020-09/document-digital-citizenship-for-cipa-and-e-rate_2.pdf", note: "PDF from Common Sense Media with Links" },
+          { title: "30 Great Lesson Plans for Internet Safety", url: "https://www.commonsense.org/education/articles/30-great-lesson-plans-for-internet-safety", note: "Help kids practice smart internet habits and stay safe online" },
+          { title: "Learning.Com", url: "https://www.learning.com/", note: "Empower West Virginia Students with Essential Digital Literacy Skills" },
+          { title: "Khan Academy", url: "https://www.khanacademy.org/college-careers-more/internet-safety", note: "Internet Safety" },
+          { title: "Be Internet Awesome", url: "https://beinternetawesome.withgoogle.com/en_us/", note: "Empowering kids to be safe, confident explorers of the online world." },
           { title: "Technological Literacy", url: "https://wv.pbslearningmedia.org/subjects/engineering--technology/technological-literacy/digital-citizenship/?rank_by=recency", note: "PBS Learning Media for Teachers" }
         ]
       },
-       {
+      {
         name: "AI & Media Literacy",
         links: [
           { title: "ISTE — AI in Education", url: "https://iste.org/ai", note: "Standards and guidance on AI use in K–12 classrooms" },
-          { title: "Media Smarts", url: "https://mediasmarts.ca/digital-media-literacy", note: "Digital Media Literacy Resources" } 
+          { title: "Media Smarts", url: "https://mediasmarts.ca/digital-media-literacy", note: "Digital Media Literacy Resources" }
         ]
       },
       {
@@ -463,15 +462,18 @@ gradePagePartner: {
         ]
       },
       {
-   {
-  name: "Parent & Family Resources",
-  links: [
-    { title: "Common Sense Media", url: "https://www.commonsensemedia.org", note: "Age-based reviews and ratings for apps, games, and shows, plus family tech agreements" },
-    { title: "ConnectSafely", url: "https://www.connectsafely.org/", note: "Parent guides on social media, gaming, and online safety" },
-    { title: "Family Online Safety Institute (FOSI)", url: "https://www.fosi.org/", note: "Research and resources for raising kids in a connected world" },
-    { title: "National Cybersecurity Alliance — Stay Safe Online", url: "https://staysafeonline.org/", note: "Family-friendly cybersecurity basics and online safety tips" },
-    { title: "HealthyChildren.org (AAP)", url: "https://www.healthychildren.org/English/family-life/Media/Pages/default.aspx", note: "Pediatrician-backed guidance on screen time and healthy media habits" }
-  ]
-}
+        name: "Parent & Family Resources",
+        links: [
+          { title: "Common Sense Media", url: "https://www.commonsensemedia.org", note: "Age-based reviews and ratings for apps, games, and shows, plus family tech agreements" },
+          { title: "ConnectSafely", url: "https://www.connectsafely.org/", note: "Parent guides on social media, gaming, and online safety" },
+          { title: "Family Online Safety Institute (FOSI)", url: "https://www.fosi.org/", note: "Research and resources for raising kids in a connected world" },
+          { title: "National Cybersecurity Alliance — Stay Safe Online", url: "https://staysafeonline.org/", note: "Family-friendly cybersecurity basics and online safety tips" },
+          { title: "HealthyChildren.org (AAP)", url: "https://www.healthychildren.org/English/family-life/Media/Pages/default.aspx", note: "Pediatrician-backed guidance on screen time and healthy media habits" }
+        ]
+      }
+    ]
+  }
+
+};
 
 };
