@@ -215,13 +215,28 @@ const swat = SITE.swatProgram;
     `).join("");
 const partner = SITE.gradePagePartner;
     const partnerBlock = partner ? `
-      <section class="tight">
+      <section class="tight" style="padding-bottom:8px;">
         <div class="wrap">
           <a class="resource-callout" style="--partner-color:${partner.color || 'var(--teal)'}" href="${partner.url}" target="_blank" rel="noopener">
             ${partner.logo ? `<img class="rc-logo" src="${partner.logo}" alt="${partner.title} logo">` : `<span class="dot"></span>`}
             <span class="rc-text">
               <h5>${partner.title}</h5>
               <p>${partner.note}</p>
+            </span>
+            <span class="rc-go">Visit site →</span>
+          </a>
+        </div>
+      </section>` : "";
+
+    const partner2 = SITE.gradePagePartner2;
+    const partnerBlock2 = partner2 ? `
+      <section class="tight" style="padding-top:0;">
+        <div class="wrap">
+          <a class="resource-callout" style="--partner-color:${partner2.color || 'var(--teal)'}" href="${partner2.url}" target="_blank" rel="noopener">
+            ${partner2.logo ? `<img class="rc-logo" src="${partner2.logo}" alt="${partner2.title} logo">` : `<span class="dot"></span>`}
+            <span class="rc-text">
+              <h5>${partner2.title}</h5>
+              <p>${partner2.note}</p>
             </span>
             <span class="rc-go">Visit site →</span>
           </a>
