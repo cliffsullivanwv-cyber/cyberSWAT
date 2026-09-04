@@ -27,6 +27,13 @@ gradePagePartner: {
     logo: "https://www.learning.com/wp-content/uploads/2021/02/Learning_Logo_Tag.png",
     color: "#1B6FA8"
   },
+    gradePagePartner2: {
+    title: "The Safety Hub",
+    url: "https://thesafetyhub.org",
+    note: "A free text-message simulator that lets students practice handling risky online situations before they run into them for real.",
+    logo: "https://thesafetyhub.org/assets/safetyhub-mark.png",
+    color: "#276b5d"
+  },
    swatProgram: {
     title: "SWAT Program Requirements (SB 466)",
     subtitle: "Safety While Accessing Technology Education Program",
