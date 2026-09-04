@@ -255,7 +255,8 @@ const partner = SITE.gradePagePartner;
         </div>
      </section>
       ${partnerBlock}
-
+      ${partnerBlock2}
+      
       <section id="downloads">
         <div class="wrap">
           <div class="section-head">
