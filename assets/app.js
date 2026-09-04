@@ -233,7 +233,7 @@ const partner = SITE.gradePagePartner;
       <section class="tight" style="padding-top:0;">
         <div class="wrap">
           <a class="resource-callout" style="--partner-color:${partner2.color || 'var(--teal)'}" href="${partner2.url}" target="_blank" rel="noopener">
-            ${partner2.logo ? `<img class="rc-logo" src="${partner2.logo}" alt="${partner2.title} logo">` : `<span class="dot"></span>`}
+           ${partner2.logo ? `<span class="rc-logo-chip"><img src="${partner2.logo}" alt="${partner2.title} logo"></span>` : `<span class="dot"></span>`}
             <span class="rc-text">
               <h5>${partner2.title}</h5>
               <p>${partner2.note}</p>
