@@ -31,7 +31,7 @@ gradePagePartner: {
     title: "The Safety Hub",
     url: "https://thesafetyhub.org",
     note: "A free text-message simulator that lets students practice handling risky online situations before they run into them for real.",
-    logo: "https://thesafetyhub.org/assets/safetyhub-mark.png",
+    logo: "https://thesafetyhub.org/assets/safetyhub-wordmark.png",
     color: "#276b5d"
   },
    swatProgram: {
