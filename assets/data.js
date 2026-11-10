@@ -34,6 +34,14 @@ gradePagePartner: {
     logo: "https://thesafetyhub.org/assets/safe-surfin-logo.png",
     color: "#276b5d"
   },
+  gradePagePartner3: {
+    title: "The Safety Hub — Guide for Teachers and Parents",
+    url: "downloads/The_Safety_Hub_Guide.pdf",
+    note: "How to run The Safety Hub in one class period: the six stories with discussion questions, Red Flag, tips for parents, and where to get help.",
+    logo: "https://thesafetyhub.org/assets/safe-surfin-logo.png",
+    color: "#276b5d",
+    linkText: "Open guide (PDF) →"
+  },
    swatProgram: {
     title: "SWAT Program Requirements (SB 466)",
     subtitle: "Safety While Accessing Technology Education Program",

@@ -230,7 +230,7 @@ const partner = SITE.gradePagePartner;
 
     const partner2 = SITE.gradePagePartner2;
     const partnerBlock2 = partner2 ? `
-      <section class="tight" style="padding-top:0;">
+      <section class="tight" style="padding-top:0;${SITE.gradePagePartner3 ? ' padding-bottom:8px;' : ''}">
         <div class="wrap">
           <a class="resource-callout" style="--partner-color:${partner2.color || 'var(--teal)'}" href="${partner2.url}" target="_blank" rel="noopener">
            ${partner2.logo ? `<span class="rc-logo-chip"><img src="${partner2.logo}" alt="${partner2.title} logo"></span>` : `<span class="dot"></span>`}
@@ -239,6 +239,20 @@ const partner = SITE.gradePagePartner;
               <p>${partner2.note}</p>
             </span>
             <span class="rc-go">Visit site →</span>
+          </a>
+        </div>
+      </section>` : "";
+    const partner3 = SITE.gradePagePartner3;
+    const partnerBlock3 = partner3 ? `
+      <section class="tight" style="padding-top:0;">
+        <div class="wrap">
+          <a class="resource-callout" style="--partner-color:${partner3.color || 'var(--teal)'}" href="${partner3.url}" target="_blank" rel="noopener">
+           ${partner3.logo ? `<span class="rc-logo-chip"><img src="${partner3.logo}" alt="Safe Surfin\u2019 Foundation logo"></span>` : `<span class="dot"></span>`}
+            <span class="rc-text">
+              <h5>${partner3.title}</h5>
+              <p>${partner3.note}</p>
+            </span>
+            <span class="rc-go">${partner3.linkText || 'Visit site →'}</span>
           </a>
         </div>
       </section>` : "";
@@ -256,6 +270,7 @@ const partner = SITE.gradePagePartner;
      </section>
       ${partnerBlock}
       ${partnerBlock2}
+      ${partnerBlock3}
       
       <section id="downloads">
         <div class="wrap">
